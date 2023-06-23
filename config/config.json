@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "newuser",
+    "password": "Arod8855",
+    "database": "tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "newuser",
+    "password": "Arod8855",
+    "database": "tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "newuser",
+    "password": "Arod8855",
+    "database": "tour",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
